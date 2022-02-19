@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteveApp_Filter_ExcelSQL", "SteveApp_Filter_ExcelSQL\SteveApp_Filter_ExcelSQL.csproj", "{68A1116A-13F6-44B6-A423-02E531DD681A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A1116A-13F6-44B6-A423-02E531DD681A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A1116A-13F6-44B6-A423-02E531DD681A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A1116A-13F6-44B6-A423-02E531DD681A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A1116A-13F6-44B6-A423-02E531DD681A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B6B360-D881-49F2-BFBE-0844C895E969}
+	EndGlobalSection
+EndGlobal
